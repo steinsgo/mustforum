@@ -1,7 +1,0 @@
-[submodule "fluent-emojis"]
-	path = fluent-emojis
-	url = https://github.com/steinsgo/emojis.git
-
-[submodule "mustforum"]
-    path = mustforum
-    url = https://github.com/steinsgo/mustforum.git
