@@ -1,23 +1,23 @@
-# 🚀 MustForum – A Lightweight Campus Community Platform
+#  MustForum – A Lightweight Campus Community Platform
 
 > MustForum is a lightweight forum system designed for universities and colleges. Inspired by platforms like **Misskey** and **Kedaquan**, it enables real-name or anonymous posting, commenting, and basic moderation. It’s tailored for student expression, campus events, and internal discussion.
 
 ---
 
-## 🧭 Overview
+##  Overview
 
 MustForum focuses on creating a safe, intuitive, and dynamic communication platform within a school environment.
 
-- 🧑‍🎓 Real-name and anonymous posting options  
-- 🗣️ Lightweight interaction (posts & comments)  
-- 🧠 Topic-based content sections and keyword search  
-- 🔐 Core moderation tools (reporting, banning, content control)  
+-  Real-name and anonymous posting options  
+-  Lightweight interaction (posts & comments)  
+-  Topic-based content sections and keyword search  
+-  Core moderation tools (reporting, banning, content control)  
 
 Built with a modern full-stack architecture, it's easy to deploy for campus clubs, classes, or internal forums.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer         | Tech Used                         |
 |---------------|-----------------------------------|
@@ -29,7 +29,7 @@ Built with a modern full-stack architecture, it's easy to deploy for campus club
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
 - ✅ User registration & login (invite code supported)  
 - ✅ Personal profile management (avatar, nickname, updates)  
@@ -42,18 +42,18 @@ Built with a modern full-stack architecture, it's easy to deploy for campus club
 
 ---
 
-## 🔄 Project Progress
+##  Project Progress
 
 | Sprint | Focus Area                          | Status     |
 |--------|--------------------------------------|------------|
-| Sprint 1 | Product definition, competitor analysis, architecture planning | ✅ Completed |
-| Sprint 2 | Project setup, login functionality  | ✅ Completed |
-| Sprint 3 | Posting, browsing, commenting flow  | ✅ Completed |
-| Sprint 4 | Reporting system, moderation tools  | ⏳ In Progress |
+| Sprint 1 | Product definition, competitor analysis, architecture planning |  Completed |
+| Sprint 2 | Project setup, login functionality  |  Completed |
+| Sprint 3 | Posting, browsing, commenting flow  |  Completed |
+| Sprint 4 | Reporting system, moderation tools  |  In Progress |
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 mustforum/
