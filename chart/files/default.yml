@@ -27,7 +27,7 @@
 #                 +---------------------------------------+
 #
 #   You need to setup reverse proxy. (eg. nginx)
-#   You do not define 'https' section.
+#   You do not define 'https' section
 
 # Option 2: Standalone
 #
