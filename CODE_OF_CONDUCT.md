@@ -1,4 +1,4 @@
-# here is my comment  :Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 

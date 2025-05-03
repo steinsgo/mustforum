@@ -2,8 +2,8 @@
  * Languages Loader
  */
 
-import * as yaml from 'js-yaml';
 import * as fs from 'node:fs';
+import * as yaml from 'js-yaml';
 
 const merge = (...args) => args.reduce((a, c) => ({
 	...a,
@@ -14,9 +14,33 @@ const merge = (...args) => args.reduce((a, c) => ({
 }), {});
 
 const languages = [
+	'ar-SA',
+	'ca-ES',
+	'cs-CZ',
+	'da-DK',
+	'de-DE',
 	'en-US',
+	'es-ES',
+	'fr-FR',
+	'id-ID',
+	'it-IT',
 	'ja-JP',
+	'ja-KS',
+	'kab-KAB',
+	'kn-IN',
+	'ko-KR',
+	'nl-NL',
+	'no-NO',
+	'pl-PL',
+	'pt-PT',
+	'ru-RU',
+	'sk-SK',
+	'th-TH',
+	'ug-CN',
+	'uk-UA',
+	'vi-VN',
 	'zh-CN',
+	'zh-TW',
 ];
 
 const primaries = {
