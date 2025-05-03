@@ -77,7 +77,7 @@
 #───┘ URL └─────────────────────────────────────────────────────
 
 # Final accessible URL seen by a user.
-url: https://example.tld/
+url: https://localhost:3000
 
 # ONCE YOU HAVE STARTED THE INSTANCE, DO NOT CHANGE THE
 # URL SETTINGS AFTER THAT!
@@ -116,8 +116,8 @@ db:
   db: misskey
 
   # Auth
-  user: example-misskey-user
-  pass: example-misskey-pass
+  user: 123456
+  pass: 123456
 
   # Whether disable Caching queries
   #disableCache: true
